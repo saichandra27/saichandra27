@@ -1,28 +1,60 @@
-# Learning Cloud, Cloud Native & AI 🚀
+# Cloud Engineering | Cloud-Native Architecture | Azure | Kubernetes | AI 🚀
 
-I use this GitHub as my technical learning and knowledge-sharing space.
+Welcome to my GitHub!
 
-My focus is on continuously learning, experimenting with, and sharing practical knowledge across <b>Microsoft Azure, Cloud-Native technologies, Kubernetes, Platform Engineering, DevOps and AI</b>.
+I am an enterprise technology professional with **12+ years of experience** in software engineering, cloud engineering, enterprise application development and cloud-native platforms.
 
-Here you will find:
+Throughout my career, I have worked across the enterprise technology landscape — from designing and developing business-critical applications to engineering cloud solutions, implementing Kubernetes platforms, building distributed systems and supporting production workloads.
 
-☁️ Azure architecture and hands-on learning<br>
-☸️ Kubernetes & AKS labs<br>
-🏗️ Cloud-Native and Microservices architectures<br>
-⚙️ DevOps, CI/CD, GitOps and automation<br>
-🤖 AI, Generative AI and AI-assisted engineering<br>
-💻 .NET, C#, APIs and distributed systems<br>
-📚 Azure & AI certification learning paths<br>
-🧪 Technical experiments and proof-of-concepts<br>
-📝 Study notes, troubleshooting guides and reference material<br>
-🗺️ Technology and certification roadmaps<br><br>
+This GitHub is where I share technical knowledge, practical engineering insights, implementation examples and hands-on resources gained through my professional experience and continuous exploration of emerging technologies.
 
-My approach is:
+### Areas of Expertise
 
-<b>Learn → Experiment → Build → Document → Share</b>
+☁️ **Microsoft Azure & Cloud Engineering**  
+Azure architecture, cloud infrastructure, AKS, App Services, Azure Functions, Logic Apps, Service Bus, Storage, API Management and enterprise cloud solutions.
 
-I believe one of the best ways to develop expertise is to continuously learn new technologies, apply them through hands-on projects, document the experience and share that knowledge with others.
+☸️ **Kubernetes & Platform Engineering**  
+Azure Kubernetes Service (AKS), cluster deployment and troubleshooting, Helm, Kustomize, container orchestration, GitOps, Flux and cloud-native platforms.
 
-⭐ <b>Follow this GitHub for regular learning updates, hands-on resources and certification journeys across Azure, Cloud Native and AI.</b>
+🏗️ **Cloud-Native & Distributed Systems**  
+Microservices architecture, .NET / C#, REST APIs, event-driven architecture, Apache Kafka, Confluent Cloud and distributed transaction processing.
 
-Let's keep learning and building. 🚀
+⚙️ **DevOps & Automation**  
+CI/CD engineering, deployment automation, infrastructure configuration, monitoring, observability and production troubleshooting.
+
+💻 **Enterprise Software Engineering**  
+Enterprise application architecture, backend development, API engineering, system integration, performance and reliability engineering.
+
+🤖 **Artificial Intelligence & Generative AI**  
+Azure AI, Generative AI, AI-assisted engineering, AI application development and emerging intelligent cloud solutions.
+
+### What You'll Find Here
+
+- Real-world enterprise technology implementation approaches and engineering patterns.
+- Azure architecture, cloud infrastructure and platform engineering examples.
+- Kubernetes and AKS hands-on labs, configurations and troubleshooting guides.
+- Microservices, distributed systems and .NET implementation examples.
+- DevOps, CI/CD, GitOps and automation practices.
+- AI engineering experiments, proof-of-concepts and technical explorations.
+- Technical reference guides, certification preparation resources and engineering notes.
+- Lessons learned from working with enterprise technologies and production environments.
+
+### My Engineering Philosophy
+
+**Architect → Engineer → Implement → Troubleshoot → Improve → Share**
+
+I believe engineering expertise comes from combining strong technical foundations with real-world implementation experience.
+
+I enjoy exploring complex technology challenges, understanding how enterprise systems work end to end, building reliable solutions and sharing practical knowledge that helps other engineers grow.
+
+### Continuous Professional Development
+
+With multiple Microsoft Azure certifications (7× Azure Certified), I continue to expand my expertise across cloud architecture, Kubernetes, platform engineering, DevOps and AI.
+
+My focus is on evolving with the technology landscape while building on the engineering experience gained through years of enterprise technology delivery.
+
+---
+
+⭐ **Connect, explore and learn.** I hope these repositories, technical resources and engineering insights help fellow developers, cloud engineers, platform engineers and technology professionals in their own journeys.
+
+**Building enterprise technology. Sharing engineering knowledge. Advancing cloud innovation.** 🚀
